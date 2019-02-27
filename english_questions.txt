@@ -82,3 +82,5 @@ its
 30. Write all 23 words in proper spacing and position
 
 31. Mengqi wrote "1 + 2 = 4", it is true that she did write this. But it is not true that 1 + 2 = 4.
+
+32. Sixteen, ninety, sixty
