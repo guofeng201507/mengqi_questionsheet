@@ -84,3 +84,13 @@ its
 31. Mengqi wrote "1 + 2 = 4", it is true that she did write this. But it is not true that 1 + 2 = 4.
 
 32. Sixteen, ninety, sixty
+
+33. He ___ the best friend I have. (was, is)
+is
+
+34. Miss Ting is good teacher and all the pupils ____ her.(like, liked, likes, are liking)
+like
+
+35. She ___her homework very quickly every day as she wants to finish it as soon as possible. (do, does, did, is doing)
+does
+
