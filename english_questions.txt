@@ -124,4 +124,90 @@ Neither + nor, Neither Brian nor his wife mentioned anything about moving house.
 either + or,
 not + either, She didn't do homework, I didn't either.
 
+46.
+	ANIMAL	HOME        
+	Alligator	nest
+	Ant	hill          
+	Aardvark	burrow, den
+	Ape	logging, nest
+	Armadillo	burrow
+	Badger	hole, sett
+	Bear	den, cave large forest      
+	Bee	bee hive
+	Beetle	land (tunnel)      
+	Buffalo	barn, byre, pasture, stable
+	Camel	desert
+	Cat	cattery, lair, den
+	Cattle	barn, byre, pasture, stable
+	Cheetah	safari, savanna
+	Bull	cattle shed
+	Cat	cage
+	Chicken	Coop
+	Chimpanzee	 tree
+	Cockroach	homes, sewers, privies
+	Cow	 shed, pen
+	Crocodile	 nest            
+	Deer	 grasslands
+	Dog	kennel
+	Dolphin	dolphinarium             
+	Donkey	stable    barn, shed 
+	Elephant	jungle, dip-wad, nest
+	Ferret	cage
+	Fish	water aquarium, vivary, pond
+	Fly	cracks, crevasse  
+	Fox	burrow, hole, lair
+	Frog	froggery, ranarium
+	Gerbil	gerbilarium
+	Giraffe	safari
+	Goat	locker, pen
+	Gorilla	nest
+	Grasshopper	grassland
+	Grouse	nest
+	Guinea Pig	hutch, cage
+	Hamster	cage
+	Hare	farm
+	Hippopotamus	river banks
+	Hornet	hive
+	Horse	stable            
+	Hyena	den
+	Kangaroo	hollow tree
+	Koala	tree
+	Leopard	safari, savanna
+	Lion	den                
+	Llama	Hut 
+	Mole	burrow, fortress, tunnel
+	Man	house
+	Monkey	tree
+	Moose	moosey land
+	Mouse	hole
+	Otter	hole, couch, holt, lodge
+	Panda	bamboo tree
+	Penguin	penguinery
+	Pig	cote, pen, sty
+	Polar bear	hole, burrow
+	Porcupine	burrow, hollow trunk
+	Porpoise	sea, aquarium
+	Possum	tree, forest
+	Rabbit	burrow
+	Raccoon	den, burrow
+	Rat	nest, hole
+	Rhinoceros	savannah, wallow 
+	Rook	rookery
+	Sea lion	nest
+	Shark	sea
+	Sheep	fold, pen
+	Snail	shell
+	Snake	burrow ophidarium, snakery
+	Spider	web
+	Squirrel	dray
+	Termite	termitarium, mound
+	Tiger	lair
+	Turtle	sea
+	Viper	hole, burrow
+	Wallaby	hollow tree
+	Whale	whalery
+	Wolf	lair, den
+	Wombat	burrow
+	Yak	hill, mountain, barn
+	Zebra	jungle, safari, veldts
 
