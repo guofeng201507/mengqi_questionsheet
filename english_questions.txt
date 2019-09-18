@@ -211,3 +211,23 @@ not + either, She didn't do homework, I didn't either.
 	Yak	hill, mountain, barn
 	Zebra	jungle, safari, veldts
 
+47. Let the cat out of the bag:
+	to allow a secret to be known, usually without intending to
+	
+48. Everyone in class _voted__ for Kelvin to be our class prefect. (voted, selected, promoted, elected)
+
+49. The bus skidded and crashed (into) the lamp-post.
+
+50. When May came back from her trip to Japan, she bought me a (souvenir). (present, parcel, reward, souvenir)
+
+51. Of the two boys, Mark is the fatter.
+	Of the 3 boys, who is the tallest?
+	
+52. in spite of + (broken leg)
+	despite that + (she had broken her leg)
+	
+53. without hesitating => immediately
+
+54. If you are hungry, I have _some___ rice left in the kitchen. (any, much, a few, some)
+
+55. The yacht capsized leaving no survivors. (not overturned, capsized for boat)
