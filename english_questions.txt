@@ -231,3 +231,6 @@ not + either, She didn't do homework, I didn't either.
 54. If you are hungry, I have _some___ rice left in the kitchen. (any, much, a few, some)
 
 55. The yacht capsized leaving no survivors. (not overturned, capsized for boat)
+
+56. Shall vs Will
+The traditional rule is that shall is used with first person pronouns (i.e. I and we) to form the future tense, while will is used with second and third person forms (i.e. you, he, she, it, they). For example: I shall be late.
